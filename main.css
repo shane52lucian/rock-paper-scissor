@@ -1,5 +1,10 @@
-body .title {
-  font-size: 70px;
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Barlow Semi Condensed", sans-serif;
 }
 
 /*# sourceMappingURL=main.css.map */
